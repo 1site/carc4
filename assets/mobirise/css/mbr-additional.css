@@ -704,8 +704,8 @@ section.lazy-placeholder:after {
   color: #444444;
 }
 .cid-qKSOR9qOwk {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #f4f8fa;
 }
 @media (max-width: 767px) {
